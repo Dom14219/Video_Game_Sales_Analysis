@@ -5,7 +5,8 @@ This Power BI dashboard explores global video game sales from 1980 to 2015, leve
 ---
 
 ## Key Features
-
+- Cleaned and refined the raw CSV dataset by removing duplicate records and manually filling in missing information for game titles, ensuring accurate and complete analysis.
+  
 - Global Sales Breakdown by Genre  
   Discover how Action, Sports, and Shooter games have consistently dominated global sales. Identify trends in lesser-known genres over time.
 
