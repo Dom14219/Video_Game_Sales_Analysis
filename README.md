@@ -1,4 +1,4 @@
-# Video Game Sales Analysis (1980–2015)
+# Video Game Sales Analysis (1980–2016)
 
 This Power BI dashboard explores global video game sales from 1980 to 2015, leveraging data from this Kaggle dataset: https://www.kaggle.com/datasets/anandshaw2001/video-game-sales. It breaks down video game sales by genre, region, platform, and the top-selling games across decades.
 
